@@ -1,6 +1,6 @@
 # Creación de Video Juegos
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/8560750/195950148-0c0df38e-5f96-45ae-87c3-6922738c612d.jpg" alt="Logo" width=1200 height=300>
+    <img src="![image](https://github.com/user-attachments/assets/fcc0369e-3cdc-4f70-8e6b-c47032c8f7e1)" alt="Logo" width=1200 height=300>
 
   <p align="center">
     Short description
@@ -23,10 +23,10 @@
 
 ## Introducción
 
-- Nombre del proyecto
+- Nombre del proyecto *Aprendiendo con dino*
   
 - Objetivo
-  Evidenciar cada una de las lecciones 
+  *Evidenciar cada una de las lecciones*
 - Plataforma ,Género, Clasificación, Personajes, Escenario.
   
 
