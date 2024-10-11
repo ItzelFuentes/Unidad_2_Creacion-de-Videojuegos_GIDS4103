@@ -26,6 +26,7 @@
 <img src="https://github.com/user-attachments/assets/f1cee3af-d57d-4c2a-9957-2f2cec6cc8c6" alt="Logo" width=1200 height=300>
 
   * > [Prototipo 2](https://github.com/ItzelFuentes/Unidad_2_Creacion-de-Videojuegos_GIDS4103/blob/main/Prototipo%202/prototipo2%20terminado.unitypackage)
+    > [Evidencia PDF](https://github.com/ItzelFuentes/Unidad_2_Creacion-de-Videojuegos_GIDS4103/blob/main/Prototipo%202/LECCION2_Fuentes_Cabrera_Itzel_Alessandra.pdf)
   * Descripción
     <p> Se muestra un entorno en donde un jugador puede moverse de izquierda a derechay dispara alimento e cual es una galleta para así destruir los animales que van aparecienciendo </p>
     
@@ -34,6 +35,7 @@
 <img src="https://github.com/user-attachments/assets/4179710b-80d2-4dd9-aa6c-07feb321546d" alt="Logo" width=1200 height=300>
 
   * > [2D RPG](https://github.com/ItzelFuentes/Unidad_2_Creacion-de-Videojuegos_GIDS4103/blob/main/2D%20RPG/2D%20RPG%20terminado.unitypackage)
+    > [Evidencia PDF](https://github.com/ItzelFuentes/Unidad_2_Creacion-de-Videojuegos_GIDS4103/blob/main/2D%20RPG/LECCION3_Fuentes_Cabrera_Itzel_Alessandra.pdf)
   * Descripción
     <p> Proyecto creado en Unity en 2D con ayuda de sprites animados, hay un jugador y 2 enemigos.</p>
     
