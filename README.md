@@ -34,14 +34,29 @@
 * Parte 1
 <img src="https://github.com/user-attachments/assets/4179710b-80d2-4dd9-aa6c-07feb321546d" alt="Logo" width=1200 height=300>
 
-  * > [2D RPG](https://github.com/ItzelFuentes/Unidad_2_Creacion-de-Videojuegos_GIDS4103/blob/main/2D%20RPG/2D%20RPG%20terminado.unitypackage)
+  * > [2D RPG P1](https://github.com/ItzelFuentes/Unidad_2_Creacion-de-Videojuegos_GIDS4103/blob/main/2D%20RPG/2D%20RPG%20terminado.unitypackage)
   * > [Evidencia PDF](https://github.com/ItzelFuentes/Unidad_2_Creacion-de-Videojuegos_GIDS4103/blob/main/2D%20RPG/LECCION3_Fuentes_Cabrera_Itzel_Alessandra.pdf)
   * Descripción
     <p> Proyecto creado en Unity en 2D con ayuda de sprites animados, hay un jugador y 2 enemigos.</p>
     
-* Lección 4
-  * > 
-* Lección 5
+* Lección 3 Jugabilidad Básica - First Game 2D
+* Parte 2
+<img src="https://github.com/user-attachments/assets/0855cfdd-b245-47e4-bd52-821919a2d26b" alt="Logo" width=1200 height=300>
+
+  * > [2D RPG P2](https://github.com/ItzelFuentes/Unidad_2_Creacion-de-Videojuegos_GIDS4103/blob/main/Leccion3%202D%20RPG%20P2/2D%20RPG%20P2.unitypackage)
+  * > [Evidencia PDF](https://github.com/ItzelFuentes/Unidad_2_Creacion-de-Videojuegos_GIDS4103/blob/main/Leccion3%202D%20RPG%20P2/LECCION3_P2_Fuentes_Cabrera_Itzel_Alessandra.pdf)
+  * Descripción
+    <p> Proyecto creado en Unity en 2D con ayuda de sprites animados, hay un jugador el cual en esta parte 2, el jugardor ya puede moverse con las flechas del teclado o bien con A,W,S,D.</p>
+
+* * Lección 3 Jugabilidad Básica - First Game 2D
+* Parte 3
+<img src="https://github.com/user-attachments/assets/5dd0a208-83b9-4578-b5f7-f66861648cf6" alt="Logo" width=1200 height=300>
+
+  * > [2D RPG P3]()
+  * > [Evidencia PDF](https://github.com/ItzelFuentes/Unidad_2_Creacion-de-Videojuegos_GIDS4103/blob/main/Leccion3%202D%20RPG%20P3/LECCION3_P3_Fuentes_Cabrera_Itzel_Alessandra.pdf)
+  * Descripción
+    <p> Proyecto creado en Unity en 2D con ayuda de sprites animados, hay un jugador el cual en esta parte 2, el jugardor ya puede moverse con las flechas del teclado o bien con A,W,S,D. Al igual que ya tiene un escenario </p>
+
   
 
 
