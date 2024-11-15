@@ -19,7 +19,7 @@
 * Lección 1 Prototype1 - Control del jugador
 <img src="https://github.com/user-attachments/assets/71d8e0bf-8bb5-4aa0-85f4-4c671a32c5c8" alt="Logo" width=1200 height=300>
 
-  * > [Prototipo 1](https://github.com/ItzelFuentes/Unidad_2_Creacion-de-Videojuegos_GIDS4103/blob/main/Prototipo%201/prototipo1%20terminado.unitypackage)
+  * > [Prototipo 1](https://github.com/ItzelFuentes/Unidad_2_Creacion-de-Videojuegos_GIDS4103/tree/main/Lecciones/Prototipo%201)
   * Descripción
     <p> Proyecto creado en Unity donde se visualiza una camioneta roja, que permite una simulación del vehículo, permite al jugador moverla hacia delante, hacia atrás y girar. </p>
     
