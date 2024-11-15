@@ -8,7 +8,7 @@
 ## Contenido
 
 - [Lecciones](#lecciones)
-- [Desafíos](#desafios)
+- [Desafíos](#Desafíos)
 - [Autores](#autores)
 - [Copyright](#copyright)
 
